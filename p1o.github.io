@@ -211,11 +211,12 @@
      z-index:99999999;
 }
 
+
 /* Hides */
 
- #tlInfHold,#topRightAdHolder,#streamContainer,#mainLogo,#mainLogoFace,#seasonLabel,
- .menuSocialB,#editorBtnM,.verticalSeparator,#classPreviewCanvas,#bubbleContainer
- #timerIcon,.greyInlineInner,#voiceIcon,#recTimer,#bottomLeftChallIcon,#bottomLeftTeamHolder, 
+ #tlInfHold,#topRightAdHolder,#streamContainer,#mainLogo,#mainLogoFace,#seasonLabel,.menuSocialB,#editorBtnM,
+ .verticalSeparator,.verticalSeparatorInline,#classPreviewCanvas,#bubbleContainer,#aHolder,
+ #timerIcon,.greyInlineInner,#voiceIcon,#recTimer,#bottomLeftChallIcon,#bottomLeftTeamHolder,
  .weapKey,.weapStreakHolder,#ammoMax,#ammoIcon{
      display:none!important
 }
